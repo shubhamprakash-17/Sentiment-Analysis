@@ -1,1 +1,2 @@
 # Sentiment-Analysis
+The objective of this project is to analyze public feedback and sentiment surrounding urban planning, infrastructure development, and city management initiatives for the Maha Kumbh 2025 event using YouTube comments as a data source. By systematically collecting, processing, and analyzing comments from videos related to urban infrastructure, sanitation, mobility, and event management, the project aims to uncover key public concerns, recurring themes, and sentiment trends.
